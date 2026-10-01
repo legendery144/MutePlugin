@@ -1,0 +1,5 @@
+name: MutePlugin
+version: '1.0'
+main: com.example.muteplugin.MutePlugin
+api-version: '1.21'
+author: Gemini
